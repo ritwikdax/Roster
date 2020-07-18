@@ -1,0 +1,13 @@
+body{
+	background-color: #F1F1F1;
+}
+
+.white-bg-card{
+	background-color: #FFFFFF;
+	border-radius: 10px;
+}
+
+hr.dashed {
+  border-top: 10px dashed #bbb;
+}
+
